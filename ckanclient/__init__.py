@@ -95,7 +95,8 @@ class CkanClient(object):
         'Tag Register': '/rest/tag',
         'Tag Entity': '/rest/tag',
         'Group Register': '/rest/group',
-        'Group Entity': '/rest/group',
+        '
+        Group Entity': '/rest/group',
         'Package Search': '/search/package'
     }
 
